@@ -14,7 +14,7 @@ We'll have guest lectures from industry and academia, as well as hands-on group 
 
 ## Syllabus, Lecture Topics, Assignments
 
-### [Link to Current Syllabus](https://docs.google.com/spreadsheets/d/1dBiaBcgKsEg2rGO6s1gqsghUsHP2iIN6OcQBse5Z3hU/edit?usp=sharing)
+# [Link to Current Syllabus](https://docs.google.com/spreadsheets/d/1dBiaBcgKsEg2rGO6s1gqsghUsHP2iIN6OcQBse5Z3hU/edit?usp=sharing)
 
 
 
