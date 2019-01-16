@@ -50,10 +50,10 @@ For students who need computing resources for the class project, it is recommend
 
 ## Instructor(s)
 
-<table style="table-layout: fixed; font-size: 88%;">
+<table style="table-layout: fixed; font-size: 88%; width:400px;">
   <thead>
     <tr>
-      <th style="width: 10%;"><img src="assets/imgs/alex.jpg" alt="Alexander Fred-Ojala" style="width:150px"></th>
+      <th style="width: 10%;"><img src="assets/imgs/alex.jpg" alt="Alexander Fred-Ojala" style="width:300px"></th>
     </tr>
   </thead>
   <tbody>
