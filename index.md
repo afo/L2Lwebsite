@@ -19,7 +19,7 @@ We'll have guest lectures from industry and academia, as well as hands-on group 
 
 
 
-## Reading
+## Readings
 
 To get a good, comprehensive understanding of Blockchain technology we recommend that you read (or skim the following books):
 
