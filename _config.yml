@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: "Blockchain Challenge Lab"
+description: "IEOR 185-002: Fall 2018"
+github:
+  show_downloads: false
+  is_project_page: false
+  html_show_sourcelink: false
