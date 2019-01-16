@@ -53,7 +53,7 @@ For students who need computing resources for the class project, it is recommend
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 10%;"><img src="assets/imgs/alex.jpg" alt="Alexander Fred-Ojala" width=300></th>
+      <th style="width: 10%;"><img src="assets/imgs/alex.jpg" alt="Alexander Fred-Ojala" style="width:500px"></th>
     </tr>
   </thead>
   <tbody>
