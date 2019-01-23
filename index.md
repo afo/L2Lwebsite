@@ -37,7 +37,7 @@ If the class wants to use Slack, we'll set it up.
 Nope.
 
 **Short URL?**
-Yes, you can use: [http://bit.ly/](http://bit.ly/blockchain185)
+Yes, you can use: [https://bit.ly/learn2launch-blockchain](https://bit.ly/learn2launch-blockchain)
 
 
 ## Additional Notes
