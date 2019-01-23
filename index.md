@@ -1,8 +1,10 @@
-## Lectures
+## Lectures and HWs
 
-**Time**: Mondays 9.30-12:00
+# [Link to Current Lecture Plan](https://docs.google.com/spreadsheets/d/1dBiaBcgKsEg2rGO6s1gqsghUsHP2iIN6OcQBse5Z3hU/edit?usp=sharing)
 
-**Location**: TBD
+**Time (subject to change, see Lecture Plan above)**: Mondays 9.30-12:00
+
+**Location**: [240 Bechtel](https://wheelerrenewal.berkeley.edu/surge-spaces/bechtel-hall-room-240) 
 
 
 ## Course description
@@ -11,12 +13,6 @@ The Learn 2 Launch Blockchain class aims to equip all students with a deep insig
 Lectures will be split up in two parts, the first will be a lecture highlighting a topic related to blockchain technology and the second part will consist of student presentations, assignment check up, and project mentoring / feedback. 
 
 We'll have guest lectures from industry and academia, as well as hands-on group exercises and presentation of use cases will help along the way.
-
-## Syllabus, Lecture Topics, Assignments
-
-# [Link to Current Syllabus](https://docs.google.com/spreadsheets/d/1dBiaBcgKsEg2rGO6s1gqsghUsHP2iIN6OcQBse5Z3hU/edit?usp=sharing)
-
-
 
 
 ## Readings
