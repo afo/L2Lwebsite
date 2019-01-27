@@ -15,6 +15,11 @@ Lectures will be split up in two parts, the first will be a lecture highlighting
 We'll have many guest lectures from industry and academia, as well as hands-on group exercises and presentation of use cases will help along the way.
 
 
+## Course Github repo
+
+[https://github.com/afo/L2Lblockchain](https://github.com/afo/L2Lblockchain)
+
+
 ## Readings
 
 To get a good, comprehensive understanding of Blockchain technology we recommend that you read (or skim the following books):
