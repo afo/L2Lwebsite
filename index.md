@@ -25,6 +25,7 @@ We'll have many guest lectures from industry and academia, as well as hands-on g
 To get a good, comprehensive understanding of Blockchain technology we recommend that you read (or skim the following books):
 
 * [The Truth Machine](https://www.amazon.com/Truth-Machine-Blockchain-Future-Everything/dp/B07B4MLBW8/ref=sr_1_1?ie=UTF8&qid=1533811586&sr=8-1&keywords=truth+machine)
+* [The Basics of Bitcoins and Blockchains](https://www.amazon.com/Basics-Bitcoins-Blockchains-Introduction-Cryptocurrencies/dp/1633538001)
 * [The Internet of Money](https://www.amazon.com/The-Internet-of-Money/dp/B071KX8WP8/ref=sr_1_5?ie=UTF8&qid=1533811605&sr=1-5&keywords=mastering+bitcoin)
 * [Mastering Ethereum (tehnical)](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940)
 * [Mastering Bitcoin (technical)](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/ref=sr_1_4?s=books&ie=UTF8&qid=1533811605&sr=1-4&keywords=mastering+bitcoin)
