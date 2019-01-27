@@ -31,6 +31,15 @@ To get a good, comprehensive understanding of Blockchain technology we recommend
 * [Mastering Bitcoin (technical)](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/ref=sr_1_4?s=books&ie=UTF8&qid=1533811605&sr=1-4&keywords=mastering+bitcoin)
 * [Bitcoin and Cryptocurrency Technologies (technical)](http://bitcoinbook.cs.princeton.edu/) - Free introductory book available on website
 
+## Grading rubric
+
+- Lowtech demo (pitch your project) 15%
+- System architecture + UI / UX flow 15%
+- Technical whitepaper  20%
+- MVP / PoC (Demo or Die) 20%
+- Homeworks / reports 20%
+- Participation / Attendance 10%
+
 
 ## Contact
 
