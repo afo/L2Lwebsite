@@ -8,11 +8,11 @@
 
 
 ## Course description
-The Learn 2 Launch Blockchain class aims to equip all students with a deep insight into Blockchain technology, its capabilities, and  to seperate hype from reality. This is an applied overview course, where we will explain how Blockchain technology works, how to actually apply it to solve problems.
+The Learn 2 Launch Blockchain class aims to equip all students with a deep insight into Blockchain technology, its capabilities, and  to seperate hype from reality. This is an applied course, where we will explain how Blockchain technology works and how to actually apply it to solve problems.
 
 Lectures will be split up in two parts, the first will be a lecture highlighting a topic related to blockchain technology and the second part will consist of student presentations, assignment check up, and project mentoring / feedback. 
 
-We'll have guest lectures from industry and academia, as well as hands-on group exercises and presentation of use cases will help along the way.
+We'll have many guest lectures from industry and academia, as well as hands-on group exercises and presentation of use cases will help along the way.
 
 
 ## Readings
@@ -26,21 +26,18 @@ To get a good, comprehensive understanding of Blockchain technology we recommend
 * [Bitcoin and Cryptocurrency Technologies (technical)](http://bitcoinbook.cs.princeton.edu/) - Free introductory book available on website
 
 
-## Slack
+## Contact
 
-If the class wants to use Slack, we'll set it up.
+We'll have a bCourses group for the blockchain students. Feel free to ask questions and stay in contact with the teaching team there.
 
 
 ## FAQ
-
-**Will lectures be recorded?**
-Nope.
 
 **Short URL?**
 Yes, you can use: [https://bit.ly/learn2launch-blockchain](https://bit.ly/learn2launch-blockchain)
 
 
-## Additional Notes
+**Cloud Credits**
 For students who need computing resources for the class project, it is recommended that you to look into AWS educate program for students or sign up for a Google Cloud account. You’ll get a couple of hundreds of dollar’s worth of sign up credit. Here are the links: [AWS](https://aws.amazon.com/education/awseducate/apply/) and [Google Cloud Platform](https://cloud.google.com/free/).
 
 
@@ -50,14 +47,17 @@ For students who need computing resources for the class project, it is recommend
   <thead>
     <tr>
       <th style="width: 10%;"><img src="assets/imgs/alex.jpg" alt="Alexander Fred-Ojala" style="width:300px"></th>
+            <th style="width: 10%;"><img src="assets/imgs/hamdi.jpg" alt="hamdi" style="width:300px"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://alex.fo/">Alexander Fred-Ojala</a> <br>(Instructor)</td>
+          <td><a href="https://www.linkedin.com/in/hamdiallam/">Hamdi Allam</a> <br>(Instructor)</td>
     </tr>
     <tr>
       <td><a href="http://scet.berkeley.edu/data-lab">SCET, Data Lab</a></td>
+      <td><a href="https://github.com/fourthstate">FourState Labs</a></td>
     </tr>
   </tbody>
 </table>
