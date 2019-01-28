@@ -63,16 +63,19 @@ For students who need computing resources for the class project, it is recommend
     <tr>
       <th style="width: 10%;"><img src="assets/imgs/alex.jpg" alt="Alexander Fred-Ojala" style="width:300px"></th>
             <th style="width: 10%;"><img src="assets/imgs/hamdi.jpeg" alt="hamdi" style="width:300px"></th>
+                        <th style="width: 10%;"><img src="assets/imgs/max.jpg" alt="hamdi" style="width:300px"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://alex.fo/">Alexander Fred-Ojala</a> <br>(Instructor)</td>
           <td><a href="https://www.linkedin.com/in/hamdiallam/">Hamdi Allam</a> <br>(Instructor)</td>
+          <td><a href="http://maxfa.ng/">Max Fang</a> <br>(Instructor)</td>
     </tr>
     <tr>
       <td><a href="http://scet.berkeley.edu/data-lab">SCET, Data Lab</a></td>
       <td><a href="https://github.com/fourthstate">FourState Labs</a></td>
+      <td><a href="https://blockchain.berkeley.edu">Blockchain at Berkeley</a></td>
     </tr>
   </tbody>
 </table>
