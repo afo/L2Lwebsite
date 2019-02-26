@@ -2,7 +2,7 @@
 
 # [Link to Current Lecture Plan](https://docs.google.com/spreadsheets/d/1dBiaBcgKsEg2rGO6s1gqsghUsHP2iIN6OcQBse5Z3hU/edit?usp=sharing)
 
-**Time (subject to change, see Lecture Plan above)**: Mondays 9.30-11:30am
+**Time (subject to change, see Lecture Plan above)**: Mondays 9.30-11:30
 
 **Location**: [240 Bechtel](https://wheelerrenewal.berkeley.edu/surge-spaces/bechtel-hall-room-240) 
 
