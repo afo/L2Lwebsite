@@ -34,11 +34,12 @@ To get a good, comprehensive understanding of Blockchain technology we recommend
 ## Grading rubric
 
 - Lowtech demo (pitch your project) 15%
-- System architecture + UI / UX flow 15%
-- Technical whitepaper  20%
-- MVP / PoC (Demo or Die) 20%
+- System architecture + UI / UX flow 10%
+- Technical whitepaper 15%
+- MVP / PoC (Demo or Die) 15%
+- Ethereum Final (test + implementation) 20%
 - Homeworks / reports 20%
-- Participation / Attendance 10%
+- Participation / Attendance 5%
 
 
 ## Contact
